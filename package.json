@@ -1,0 +1,24 @@
+{
+  "name": "DT-DWD-ClickGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiChiMaka64/DT-DWD-ClickGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiChiMaka64/DT-DWD-ClickGame/issues"
+  },
+  "homepage": "https://github.com/ChiChiMaka64/DT-DWD-ClickGame#readme"
+}
